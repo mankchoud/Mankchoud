@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**mankchoud/Mankchoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Bonjour, je suis Lawal Mankchoud 👋
 
 🌍 Basé à Paris, France | 🎯 Ingénieur Cloud & DevOps orienté sécurité (Cloud Security, DevSecOps) | 🤝 À la recherche d'une alternance
@@ -104,4 +100,3 @@ Je cherche une alternance en cloud, DevOps et sécurité. N'hésitez pas à me c
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lawalremi20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawal-mankchoud)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5b5bf0?style=for-the-badge&logo=vercel&logoColor=white)](https://m-lawal-portfolio.vercel.app)
-
