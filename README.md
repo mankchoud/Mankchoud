@@ -1,6 +1,6 @@
 # Bonjour, je suis Lawal Mankchoud 👋
 
-🌍 Basé à Paris, France | 🎯 Ingénieur Cloud & DevOps orienté sécurité (Cloud Security, DevSecOps) | 🤝 À la recherche d'une alternance
+🌍 Basé à Paris, France | 🎯 Ingénieur Cloud & DevOps orienté sécurité (Cloud Security, DevSecOps) | 🤝 À la recherche d'un stage alterné
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-5b5bf0?style=for-the-badge&logo=vercel&logoColor=white)](https://m-lawal-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawal-mankchoud)
@@ -14,7 +14,7 @@ role: Ingénieur Cloud & Infrastructure
 specialization: [Cloud Security, DevSecOps, Infrastructure as Code, CI/CD]
 studying: Mastère Systèmes, Réseaux et Cloud (SRC) @ ESGI Paris, en alternance
 location: Paris, France
-seeking: Alternance (1 semaine école / 3 semaines entreprise)
+seeking: Stage alterné (1 semaine école / 3 semaines entreprise)
 languages: [Français, English]
 ```
 
@@ -95,7 +95,7 @@ Les projets personnels sont détaillés sur mon [portfolio](https://m-lawal-port
 
 ## 🤝 Me contacter
 
-Je cherche une alternance en cloud, DevOps et sécurité. N'hésitez pas à me contacter.
+Je cherche un stage alterné en cloud, DevOps et sécurité. N'hésitez pas à me contacter.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lawalremi20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawal-mankchoud)
